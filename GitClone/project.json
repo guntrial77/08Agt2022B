@@ -1,5 +1,5 @@
 {
-  "name": "Git02",
+  "name": "GitClone",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "40508c9f-cb71-4706-aaac-6b0d776551dc",
+      "uniqueId": "ed70c24b-d024-4b70-82f6-8372decb63b8",
       "input": [],
       "output": []
     }
