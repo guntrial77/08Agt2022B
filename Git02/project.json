@@ -1,5 +1,5 @@
 {
-  "name": "Git04",
+  "name": "Git02",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "554f6f82-6bbe-4dac-8aa6-2f76269e2337",
+      "uniqueId": "40508c9f-cb71-4706-aaac-6b0d776551dc",
       "input": [],
       "output": []
     }
